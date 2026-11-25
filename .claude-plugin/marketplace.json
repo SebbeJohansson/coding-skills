@@ -1,0 +1,13 @@
+{
+  "name": "coding-skills",
+  "owner": {
+    "name": "Sebastian Johansson"
+  },
+  "plugins": [
+    {
+      "name": "coding-skills",
+      "source": "./",
+      "description": "Sebastian's coding skills, including starting a new public repo from the scaffolding template"
+    }
+  ]
+}

@@ -14,7 +14,14 @@ Agent skills I distribute from my personal account.
 
 ## Install
 
-Copy a skill folder into `~/.claude/skills/`:
+As a Claude Code plugin (repeat once per machine and account):
+
+```
+/plugin marketplace add SebbeJohansson/coding-skills
+/plugin install coding-skills@coding-skills
+```
+
+Or copy a skill folder into `~/.claude/skills/`:
 
 ```sh
 git clone https://github.com/SebbeJohansson/coding-skills.git
